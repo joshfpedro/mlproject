@@ -1,6 +1,9 @@
 pandas
 numpy
 seaborn
+matplotlib
+scikit-learn
+ipykernel
 -e .
 # -e . indicates that the current directory should be treated as a package
 # The above line allows for local development and testing of the package
